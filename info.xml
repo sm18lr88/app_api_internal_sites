@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <info>
-  <id>DockerSites</id>
-  <name>Docker Sites</name>
+  <id>InternalSites</id>
+  <name>Internal Sites</name>
   <description>Access to locally hosted sites</description>
   <version>1.0.0</version>
   <author>sm18lr88</author>
   <licence>AGPL</licence>
-  <namespace>DockerSites</namespace>
+  <namespace>Internal Sites</namespace>
   <types>
     <filesystem/>
     <logging/>
@@ -15,9 +15,9 @@
     <admin>README.md</admin>
   </documentation>
   <category>integration</category>
-  <website>https://your-website.com</website>
-  <bugs>https://your-website.com/bugs</bugs>
-  <repository type="git">https://github.com/your-repo.git</repository>
+  <website>https://github.com/sm18lr88/app_api_internal_sites</website>
+  <bugs>https://github.com/sm18lr88/app_api_internal_sites</bugs>
+  <repository type="git">https://github.com/sm18lr88/app_api_internal_sites.git</repository>
   <dependencies>
     <nextcloud min-version="27" max-version="28"/>
   </dependencies>
